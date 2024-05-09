@@ -47,6 +47,7 @@
 		5248E92A2BED2A920079E1BE /* StudyiOSProjectUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = StudyiOSProjectUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5248E92E2BED2A920079E1BE /* StudyiOSProjectUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StudyiOSProjectUITests.swift; sourceTree = "<group>"; };
 		5248E9302BED2A930079E1BE /* StudyiOSProjectUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StudyiOSProjectUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		5248E93D2BED2EC00079E1BE /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +78,7 @@
 		5248E9042BED2A8F0079E1BE = {
 			isa = PBXGroup;
 			children = (
+				5248E93D2BED2EC00079E1BE /* .gitignore */,
 				5248E90F2BED2A8F0079E1BE /* StudyiOSProject */,
 				5248E9232BED2A920079E1BE /* StudyiOSProjectTests */,
 				5248E92D2BED2A920079E1BE /* StudyiOSProjectUITests */,
